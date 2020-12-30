@@ -1,16 +1,16 @@
+/*Styles for Tags*/
 body {
     background-color: #e3fdfd;
 }
 
 hr {
-    border-style: none;
     background-color: none;
     border-color: gray;
-    height: 0px;
-    width: 5%;
     border-style: none;
     border-top-style: dotted;
     border-width: 7px;
+    height: 0px;
+    width: 5%;
 }
 
 img {
